@@ -1,0 +1,40 @@
+_repo: Comment-on-devient-ecrivain_67400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Albalat, Antoine
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '54257'
+    url: http://www.gutenberg.org/2009/agents/54257
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antoine_Albalat
+    - https://fr.wikipedia.org/wiki/Antoine_Albalat
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67400'
+  lccn: '25016475'
+language: fr
+pgterms:marc904: https://books.google.fr/books?id=15g_AAAAIAAJ
+pgterms:marc905: 20210609210704albalat
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: France :Plon-Nourrit,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literary style'
+- !lcsh 'Authorship'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: La vocation et le succès -- Le style et le roman -- Comment on fait
+  un roman -- Quels romans faut-il lire? -- L'érudition et le livre d'histoire --
+  Ce que doit être la critique littéraire -- Comment on fait un sermon -- La traduction
+  comme moyen de former son style -- Le journalisme et les conférences -- Le guide
+  et les conseils.
+title: Comment on devient écrivain
+url: http://www.gutenberg.org/ebooks/67400
